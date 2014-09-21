@@ -9,7 +9,7 @@
 ## verse, or recalculates it if the matrix has been updated.  Func-
 ## tions makeCacheMatrix and cacheSolve are based on the sample func-
 ## tions makeVector and cacheMean given in the assignment description
-## as starting points.
+## as starting points. 
 
 ## Utility function replaceCachedMatrixWithNew compares the cached matrix
 ## with a new matrix in search of a reason to replace the cachedMatrix
